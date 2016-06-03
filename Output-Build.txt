@@ -1,0 +1,5 @@
+﻿1>------ Rebuild All started: Project: Engine, Configuration: Release Any CPU ------
+1>  Engine -> C:\Users\Robert\Documents\Visual Studio 2015\Projects\SuperAdventure\Engine\bin\Release\Engine.dll
+2>------ Rebuild All started: Project: SuperAdventure, Configuration: Release Any CPU ------
+2>  SuperAdventure -> C:\Users\Robert\Documents\Visual Studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
